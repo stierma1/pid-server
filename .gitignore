@@ -13,6 +13,8 @@ pids
 lib-cov
 
 register
+local-config
+configurator.js
 
 # Coverage directory used by tools like istanbul
 coverage
